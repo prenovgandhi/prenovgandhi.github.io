@@ -6,11 +6,11 @@ repository: sproogen/modern-resume-theme
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
+name: Prenov Gandhi
+title: Student at Michigan State University
+email: gandhip2@msu.edu
 email_title: Email
-phone: 07845248563
+phone: 2489490208
 phone_title: Phone
 website: sproogen.github.io/modern-resume-theme
 website_title: Web
