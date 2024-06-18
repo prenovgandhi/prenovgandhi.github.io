@@ -23,7 +23,6 @@ github_username: prenovgandhi
 stackoverflow_username: prenovgandhi
 linkedin_username: prenovgandhi
 
-
 # Additional icon links
 additional_links:
 - title: Link name
@@ -65,8 +64,6 @@ content:
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Developed unique geography guessing game using MIT App Inventor.
-        description: | # this will include new lines to allow paragraphs
-          Developed unique geography guessing game using MIT App Inventor.
   - title: Experience
     layout: list
     content:
@@ -75,7 +72,7 @@ content:
         caption: 2023 - present
         link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
-          Worked in groups to develop stock closing price AI for kaggle competition.
+          Worked in teams to develop stock closing price AI for kaggle competition.
   - title: Education
     layout: list
     content:
@@ -83,7 +80,7 @@ content:
         title: Michigan State University
         sub_title: BSE Computer Science
         caption: 2023-2027
-        
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
