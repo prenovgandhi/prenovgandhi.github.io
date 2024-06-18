@@ -58,10 +58,8 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Developed unique geography guessing game using MIT App Inventor.
   - title: Experience
@@ -70,7 +68,6 @@ content:
       - layout: right
         title: AI Club
         caption: 2023 - present
-        link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
           Worked in teams to develop stock closing price AI for kaggle competition.
   - title: Education
