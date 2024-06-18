@@ -43,13 +43,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Motivated Computer Science student seeking technical role to apply technical skills while learning on-the-job skills and ins and outs of company functions and objectives.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  
+    
 
 content:
   - title: Projects # Title for the section
@@ -58,9 +55,8 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Geography guessing game
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -69,21 +65,20 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Worked in a group to develop a geography identification game.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Worked in a group to develop a geography identification game.
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: AI Club
+        caption: 2023 - present
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Worked in groups to develop stock closing price AI for kaggle competition.
   - title: Education
     layout: list
     content:
@@ -95,12 +90,10 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Proficient in Java, Python, C++, JupyterHub
 
 # Footer
 footer_show_references: true
