@@ -43,7 +43,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Motivated Computer Science student seeking technical role to apply technical skills while learning on-the-job skills and ins and outs of company functions and objectives.
+  Curious Computer Science student seeking technical role to apply technical skills while learning on-the-job skills and ins and outs of company functions and objectives.
 
   
     
@@ -64,9 +64,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Worked in a group to develop a geography identification game.
+          Developed unique geography guessing game using MIT App Inventor.
         description: | # this will include new lines to allow paragraphs
-          Worked in a group to develop a geography identification game.
+          Developed unique geography guessing game using MIT App Inventor.
   - title: Experience
     layout: list
     content:
@@ -83,8 +83,7 @@ content:
         title: Michigan State University
         sub_title: BSE Computer Science
         caption: 2023-2027
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
